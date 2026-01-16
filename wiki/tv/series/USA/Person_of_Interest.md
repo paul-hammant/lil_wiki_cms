@@ -6,14 +6,20 @@ Person of Interest is an American science fiction crime drama television series 
 
 ## Overview
 
-Created by Jonathan Nolan, the series follows a former CIA agent and a billionaire software genius who work together to prevent violent crimes before they happen, using an advanced surveillance AI system known as "The Machine."
+Created by Jonathan Nolan, the series follows a former CIA agent and a billionaire software genius who work together to prevent violent crimes before they happen, using an advanced surveillance AI system known as “The Machine.”
 
 ## Main Cast
 
-- Jim Caviezel as John Reese
-- Michael Emerson as Harold Finch
-- Taraji P. Henson as Joss Carter
-- Kevin Chapman as Lionel Fusco
+-   Jim Caviezel as John Reese
+    
+-   Michael Emerson as Harold Finch
+    
+-   Taraji P. Henson as Joss Carter
+    
+-   Kevin Chapman as Lionel Fusco
+    
+-   Amy Acker as Samantha ”Root” Groves
+    
 
 ## Seasons
 
