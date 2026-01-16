@@ -1,0 +1,115 @@
+{
+  "fields": [
+    {
+      "type": "text",
+      "default": null,
+      "icon": "text-input",
+      "key": "title",
+      "label": "Title",
+      "localised": false,
+      "options": {
+        "wrapping": true,
+        "multiline": false
+      },
+      "tab": "ungrouped",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": true,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    },
+    {
+      "type": "rich text",
+      "default": null,
+      "icon": "text",
+      "key": "content",
+      "label": "Content",
+      "localised": false,
+      "options": {
+        "outputFormat": "markdown",
+        "blockFormats": [
+          "blockquote",
+          "heading",
+          "hr",
+          "orderedList",
+          "unorderedList",
+          "image",
+          "codeBlock"
+        ],
+        "inlineFormats": [
+          "em",
+          "strong",
+          "link",
+          "br",
+          "strike",
+          "code"
+        ],
+        "formatOptions": [
+          "allowQuoteFooters",
+          "allowNestedLists",
+          "allowImageCaptions"
+        ],
+        "inputRuleOptions": [
+          "autoquotes",
+          "dashes",
+          "ellipsis"
+        ],
+        "minHeading": 2,
+        "maxHeading": 4,
+        "codeLangs": [
+          "html",
+          "css",
+          "javascript",
+          "python",
+          "bash",
+          "json",
+          "yaml",
+          "markdown"
+        ],
+        "allowRaw": false,
+        "urlTemplate": "",
+        "urlSuffix": "",
+        "linkOptions": [
+          "allowExternal",
+          "allowInternal"
+        ]
+      },
+      "tab": "ungrouped",
+      "validation": {
+        "enforceMinMax": true,
+        "max": null,
+        "min": null,
+        "regex": null,
+        "regexError": null,
+        "required": false,
+        "unit": "length"
+      },
+      "value": null,
+      "version": 1,
+      "visibility": {
+        "hidden": false,
+        "showByValue": {
+          "field": null
+        }
+      }
+    }
+  ],
+  "tabs": [
+    {
+      "label": "ungrouped",
+      "groupAs": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "allowedTypes": [],
+  "defaultFilename": null,
+  "dir": "/wiki",
+  "disableComments": false,
+  "disablePreview": false,
+  "draftByDefault": false,
+  "schemas": [
+    "/.mattrbld/schemas/wiki-page-schema.json"
+  ],
+  "linkable": true,
+  "maxSize": null,
+  "permissions": {
+    "everybody": [
+      "everything"
+    ]
+  },
+  "type": "md",
+  "urlTemplate": ""
+}

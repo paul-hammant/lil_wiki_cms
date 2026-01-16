@@ -1,0 +1,75 @@
+{
+  "autoquotes": null,
+  "brandColors": [],
+  "corsProxy": "/corsprox",
+  "name": "lil_wiki_cms",
+  "sidebar": [
+    {
+      "label": "Dashboard",
+      "icon": "grid",
+      "target": {
+        "name": "Project"
+      },
+      "protected": true
+    },
+    {
+      "label": "Media Library",
+      "icon": "image-stack",
+      "target": {
+        "name": "Project.MediaLibrary"
+      },
+      "protected": true
+    },
+    {
+      "separator": true
+    },
+    {
+      "icon": "file-document",
+      "label": "Wiki Pages",
+      "target": {
+        "name": "Project.Collection",
+        "params": {
+          "path": "/.mattrbld/collections/wiki.json"
+        }
+      }
+    },
+    {
+      "separator": true
+    },
+    {
+      "label": "Settings",
+      "icon": "settings",
+      "target": {
+        "name": "Project.Settings"
+      },
+      "onlyPrivileged": true,
+      "protected": true
+    }
+  ],
+  "slugifyOptions": {
+    "customReplacements": [],
+    "lowercase": true,
+    "decamelize": true,
+    "preserveLeadingUnderscore": true,
+    "preserveTrailingDash": false,
+    "preserveCharacters": [],
+    "separator": "_",
+    "transliterate": true
+  },
+  "customRoles": [],
+  "draftsDir": null,
+  "previewUrl": null,
+  "languages": [],
+  "media": {
+    "advanced": false,
+    "customFields": null,
+    "dir": "/media",
+    "maxSize": null,
+    "outputPath": null,
+    "permissions": {
+      "everybody": [
+        "everything"
+      ]
+    }
+  }
+}
